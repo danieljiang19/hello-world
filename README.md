@@ -1,5 +1,7 @@
 # hello-world
-this is a testing repository
+
+this is third version.
 
 I am .net developer.
 I am good at sql server, entity framework, webapi, mvc, and angular.
+I enjoy c#.
